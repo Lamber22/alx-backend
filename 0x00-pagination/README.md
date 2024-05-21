@@ -122,6 +122,6 @@ This project contains tasks for learning to paginate data.
   - If the user queries index 0, `page_size` 10, they will get rows indexed 0 to 9 included.
   - If they request the next index (10) with `page_size` 10, but rows 3, 6 and 7 were deleted, the user should still receive rows indexed 10 to 19 included.
 
-## Author
+### Author
 
 - Name: [Lamber J. Kpukuyou](https://github.com/Lamber22)
